@@ -89,7 +89,7 @@ color: black;
     
 }
 .right iframe{
-    height: 100%;
+    height: calc(90% - 20px);
 }
 
 
